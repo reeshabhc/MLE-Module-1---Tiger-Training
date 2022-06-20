@@ -1,0 +1,710 @@
+Script started on 2022-06-20 20:57:06+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="135" LINES="68"]
+]0;reeshabhc@TIGER03336: ~ [01;32mreeshabhc@TIGER03336[00m:[01;34m~[00m$ ls
+[0m[01;34mDesktop[0m  my_unix_session
+]0;reeshabhc@TIGER03336: ~ [01;32mreeshabhc@TIGER03336[00m:[01;34m~[00m$ pwd
+/home/reeshabhc
+]0;reeshabhc@TIGER03336: ~ [01;32mreeshabhc@TIGER03336[00m:[01;34m~[00m$ ls -F Desktop
+'Visual Studio Code.lnk'   desktop.ini   [0m[01;34mshell-lesson-data[0m/
+]0;reeshabhc@TIGER03336: ~ [01;32mreeshabhc@TIGER03336[00m:[01;34m~[00m$ ls not[Krth  [K[K[K[K[Ksh[K[K[K[K[K cd no[K[Kshe  ll[K[K[K[K[K[K[K[K      cd[K[K  shel l[K[K[K[K[K cd Desktop/shell-lesson-data/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ ls north-pacific-gyre/
+NENE01729A.txt                  NENE01812A.txt                  NENE01978B.txt                  NENE02043A.txt
+NENE01729A.txt:Zone.Identifier  NENE01812A.txt:Zone.Identifier  NENE01978B.txt:Zone.Identifier  NENE02043A.txt:Zone.Identifier
+NENE01729B.txt                  NENE01843A.txt                  NENE02018B.txt                  NENE02043B.txt
+NENE01729B.txt:Zone.Identifier  NENE01843A.txt:Zone.Identifier  NENE02018B.txt:Zone.Identifier  NENE02043B.txt:Zone.Identifier
+NENE01736A.txt                  NENE01843B.txt                  NENE02040A.txt                  goodiff.sh
+NENE01736A.txt:Zone.Identifier  NENE01843B.txt:Zone.Identifier  NENE02040A.txt:Zone.Identifier  goodiff.sh:Zone.Identifier
+NENE01751A.txt                  NENE01971Z.txt                  NENE02040B.txt                  goostats.sh
+NENE01751A.txt:Zone.Identifier  NENE01971Z.txt:Zone.Identifier  NENE02040B.txt:Zone.Identifier  goostats.sh:Zone.Identifier
+NENE01751B.txt                  NENE01978A.txt                  NENE02040Z.txt
+NENE01751B.txt:Zone.Identifier  NENE01978A.txt:Zone.Identifier  NENE02040Z.txt:Zone.Identifier
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ ls north-pacific-gyre/goo 
+goodiff.sh                   goodiff.sh:Zone.Identifier   goostats.sh                  goostats.sh:Zone.Identifier
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ ls north-pacific-gyre/goo[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K   vd[K[Kls
+[0m[01;34mexercise-data[0m  [01;34mnorth-pacific-gyre[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ cd es[Kc[Kxercise-data/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd[K[Kls
+[0m[01;34manimal-counts[0m  [01;34mcreatures[0m  numbers.txt  numbers.txt:Zone.Identifier  [01;34mproteins[0m  [01;34mwriting[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd writing/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -F
+LittleWomen.txt  LittleWomen.txt:Zone.Identifier  haiku.txt  haiku.txt:Zone.Identifier
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ mkdir thesis
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ mkdir -p ../project/data ../project/resul;ts[K[K[Kts
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -FR ../project
+../project:
+[0m[01;34mdata[0m/  [01;34mresults[0m/
+
+../project/data:
+
+../project/results:
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ cd thesis
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ nano [Kdr[K[K drag[Kft.txtr
+[?2004h[?1049h[22;0;0t[1;68r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[66;62H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                                  draft.txtr                                                             [1;134H(B[m
+[67d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[67;113H(B[0;7mM-A(B[m Mark Text
+[68d(B[0;7m^X(B[m Exit[68;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[68;113H(B[0;7mM-6(B[m Copy Text
+[66d[2d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;126H(B[0;7mModified(B[m
+[2dI[?12l[?25h[?25lt[?12l[?25h[?25l'[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25ln[?12l[?25h[?25lo[?12l[?25h[?25lt[?12l[?25h[?25l [?12l[?25h[?25l"[?12l[?25h[?25lp[?12l[?25h[?25lu[?12l[?25h[?25lb[?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25l [?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25l [?12l[?25h[?25lp[?12l[?25h[?25le
+[66d[K[2;24H[?12l[?25h[?25lr[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25l"[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25ly[?12l[?25h[?25l [?12l[?25h[?25lm[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l,[?12l[?25h[?25l
+[3d[?12l[?25h[?25li[?12l[?25h[?25lt[?12l[?25h[?25l'[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25l [?12l[?25h[?25l"[?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25la[?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25ld[?12l[?25h[?25l [?12l[?25h[?25lt[?12l[?25h[?25lh[?12l[?25h[?25lr[?12l[?25h[?25li[?12l[?25h[?25lv[?12l[?25h[?25le[?12l[?25h[?25l"[?12l[?25h[?25l.[?12l[?25h[?25l
+[4d[?12l[?25h[?25l[67;17H[17X[67;34H(B[0;7mM-D(B[m DOS Format[19X[67;67H(B[0;7mM-A(B[m Append[14X[67;97H   (B[0;7mM-B(B[m Backup File[K[68;2H(B[0;7mC(B[m Cancel[17G[17X[68;34H(B[0;7mM-M(B[m Mac Format[19X[68;67H(B[0;7mM-P(B[m Prepend[22X[68;100H(B[0;7m^T(B[m To Files[K
+[66d(B[0;7mFile Name to Write: draft.txtr                                                                                                         [66;1H(B[m[66;31H[?12l[?25h[?25l
+[K[67;2H(B[0;7mL(B[m Refresh [67;23H(B[0;7m^W(B[m Where Is           (B[0;7mM-Q(B[m Previous[67;67H(B[0;7m^P(B[m Prev Line[67;89H(B[0;7m^Y(B[m Prev Page          (B[0;7mM-\(B[m First Line[68;2H(B[0;7mX(B[m Close [68;23H(B[0;7m^Q(B[m Where Was          (B[0;7mM-W(B[m Next[68;67H(B[0;7m^N(B[m Next Line[68;89H(B[0;7m^V(B[m Next Page          (B[0;7mM-/(B[m Last Line
+[66d[1;3H(B[0;7m            [1;59HWrite File Help Text[1;126H        (B[m
+[2d[39;49m(B[m Type the name that you wish to save the current file as and press [36mEnter
+[3d[39m(B[m to save the file.[K
+[5d If you have selected text with the mark, you will be prompted to save
+[6d only the selected portion to a separate file.  To reduce the chance of
+[7d overwriting the current file with just a portion of it, the current
+[8d filename is not the default in this mode.
+[10d The following function keys are available in Write File mode:
+[12d[36m^G[39m(B[m     ([36mF1[39m(B[m)[18GDisplay this help text
+[13d[36m^C[13;18H[39m(B[mCancel the current function
+[15d[36mM-D[15;18H[39m(B[mToggle the use of DOS format
+[16d[36mM-M[16;18H[39m(B[mToggle the use of Mac format
+[17d[36mM-A[17;18H[39m(B[mToggle appending
+[18d[36mM-P[18;18H[39m(B[mToggle prepending
+[19d[36mM-B[19;18H[39m(B[mToggle backing up of the original file
+[21d[36m^T[21;18H[39m(B[mGo to file browser[22;18HClose buffer without saving it
+[2d [66;59H(B[0;1m[37m[41m[ Unbound key: ^T ][39;49m(B[m
+[2d [66;75H(B[0;1m[37m[41mM ][39;49m(B[m
+[2d [66;78H
+[2d [66;58H(B[0;1m[37m[41m[ Unbound key: M-M ][39;49m(B[m
+[2d [66;58H (B[0;1m[37m[41m[ Unbound key: M ][39;49m(B[m[K
+[2d [66;74H(B[0;1m[37m[41mB ][39;49m(B[m
+[2d [66;74H(B[0;1m[37m[41mM ][39;49m(B[m
+[2d [66;77H
+[2d [66;77H
+[2d [66;74H(B[0;1m[37m[41mA ][39;49m(B[m
+[2d [66;74H(B[0;1m[37m[41mM ][39;49m(B[m
+[2d [66;74H(B[0;1m[37m[41mD ][39;49m(B[m
+[2d [66;74H(B[0;1m[37m[41mM ][39;49m(B[m
+[2d [66;77H
+[2d [66;77H
+[2d [66;77H
+[2d [66;77H
+[2d [66;77H
+[2d [66;77H
+[2d [66;77H
+[2d [66;74H(B[0;1m[37m[41mA ][39;49m(B[m
+[2d[66d[K[67;2H(B[0;7mG(B[m Get Help[67;23H           (B[0;7mM-D(B[m DOS Format         [67;67H(B[0;7mM-A(B[m Append  [67;89H           (B[0;7mM-B(B[m Backup File[K[68;2H(B[0;7mC(B[m Cancel[68;23H           (B[0;7mM-M(B[m Mac Format     [68;67H(B[0;7mM-P(B[m Prepend [68;89H           (B[0;7m^T(B[m To Files[K
+[66d[1;3H(B[0;7mGNU nano 4.8[1;59H      draft.txtr    [1;126HModified(B[m
+[2d[39;49m(B[mIt's not "publish or perish" any more,[K
+[3dit's a "share and thrive".
+[5d[K[6d[K[7d[K[8d[K[10d[K[12d[K[13d[K[15d[K[16d[K[17d[K[18d[K[19d[K[21d[K[22d[K[66d(B[0;7mFile Name to Write: draft.txtr                                                                                                         [66;1H(B[m[66;31H[?12l[?25h[?25l[66;61H[1K (B[0;7m[ Cancelled ](B[m[K[67;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify      (B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo        (B[0;7mM-A(B[m Mark Text[68;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo        (B[0;7mM-6(B[m Copy Text
+[66d[4d[?12l[?25h[?25l[66d[K[67;2H(B[0;7mL(B[m Refresh            (B[0;7m^W(B[m Where Is           (B[0;7mM-Q(B[m Previous          (B[0;7m^P(B[m Prev Line          (B[0;7m^Y(B[m Prev Page    [111G(B[0;7mM-\(B[m First Line[K[68;4HClose[68;17H      (B[0;7m^Q(B[m Where Was          (B[0;7mM-W(B[m Next[14X[68;67H(B[0;7m^N(B[m Next Line          (B[0;7m^V(B[m Next Page    [111G(B[0;7mM-/(B[m Last Line[K
+[66d[1;3H(B[0;7m            [1;59HMain nano help text[1;126H        (B[m
+[2d[39;49m(B[m The nano editor is designed to emulate the functionality and ease-of-use
+[3d of the UW Pico text editor.  There are four main sections of the editor.
+[4d The top line shows the program version, the current filename being
+[5d edited, and whether or not the file has been modified.  Next is the main
+[6d editor window showing the file being edited.  The status line is the
+[7d third line from the bottom and shows important messages.  The bottom two
+[8d lines show the most commonly used shortcuts in the editor.
+[10d Shortcuts are written as follows: Control-key sequences are notated with
+[11d a (B[0;1m[31m'^'[39m(B[m and can be entered either by using the Ctrl key or pressing the Esc
+[12d key twice.  Meta-key sequences are notated with (B[0;1m[31m'M-'[39m(B[m and can be entered
+[13d using either the Alt, Cmd, or Esc key, depending on your keyboard setup.
+[14d Also, pressing Esc twice and then typing a three-digit decimal number
+[15d from 000 to 255 will enter the character with the corresponding value.
+[16d The following keystrokes are available in the main editor window.
+[17d Alternative keys are shown in parentheses:
+[19d[36m^G[39m(B[m     ([36mF1[39m(B[m)[18GDisplay this help text
+[20d[36m^X[39m(B[m     ([36mF2[39m(B[m)[18GClose the current buffer / Exit from nano
+[21d[36m^O[39m(B[m     ([36mF3[39m(B[m)[18GWrite the current buffer (or the marked region) to disk
+[22d[36m^R[39m(B[m     ([36mIns[39m(B[m)     Insert another file into current buffer (or into new buffer)
+[24d[36m^W[39m(B[m     ([36mF6[39m(B[m)[18GSearch forward for a string or a regular expression
+[25d[36m^\[39m(B[m     ([36mM-R[39m(B[m)     Replace a string or a regular expression
+[26d[36m^K[39m(B[m     ([36mF9[39m(B[m)[18GCut current line (or marked region) and store it in cutbuffer
+[27d[36m^U[39m(B[m     ([36mF10[39m(B[m)     Paste the contents of cutbuffer at current cursor position
+[29d[36m^J[39m(B[m     ([36mF4[39m(B[m)[18GJustify the current paragraph
+[30d[36m^T[39m(B[m     ([36mF12[39m(B[m)     Invoke the spell checker, if available
+[32d[36m^C[39m(B[m     ([36mF11[39m(B[m)     Display the position of the cursor
+[33d[36m^_[39m(B[m     ([36mM-G[39m(B[m)     Go to line and column number
+[35d[36mM-U[35;18H[39m(B[mUndo the last operation
+[36d[36mM-E[36;18H[39m(B[mRedo the last undone operation
+[38d[36mM-A[39m(B[m    ([36m^6[39m(B[m)[18GMark text starting from the cursor position
+[39d[36mM-6[39m(B[m    ([36mM-^[39m(B[m)     Copy current line (or marked region) and store it in cutbuffer
+[41d[36mM-][41;18H[39m(B[mGo to the matching bracket
+[43d[36m^Q[43;18H[39m(B[mSearch backward for a string or a regular expression
+[44d[36mM-Q[44;18H[39m(B[mSearch next occurrence backward
+[45d[36mM-W[45;18H[39m(B[mSearch next occurrence forward
+[47d[36m^B[39m(B[m     ([36m◀[39m(B[m)[18GGo back one character
+[48d[36m^F[39m(B[m     ([36m▶[39m(B[m)[18GGo forward one character
+[49d[36m^◀[39m(B[m     ([36mM-Space[39m(B[m) Go back one word
+[50d[36m^▶[39m(B[m     ([36m^Space[39m(B[m)  Go forward one word
+[51d[36m^A[39m(B[m     ([36mHome[39m(B[m)    Go to beginning of current line
+[52d[36m^E[39m(B[m     ([36mEnd[39m(B[m)     Go to end of current line
+[54d[36m^P[39m(B[m     ([36m▲[39m(B[m)[18GGo to previous line
+[55d[36m^N[39m(B[m     ([36m▼[39m(B[m)[18GGo to next line
+[56d[36mM-▲[39m(B[m    ([36mM--[39m(B[m)     Scroll up one line without moving the cursor textually
+[57d[36mM-▼[39m(B[m    ([36mM-+[39m(B[m)     Scroll down one line without moving the cursor textually
+[59d[36m^▲[39m(B[m     ([36mM-7[39m(B[m)     Go to previous block of text
+[60d[36m^▼[39m(B[m     ([36mM-8[39m(B[m)     Go to next block of text
+[61d[36mM-([39m(B[m    ([36mM-9[39m(B[m)     Go to beginning of paragraph; then of previous paragraph
+[62d[36mM-)[39m(B[m    ([36mM-0[39m(B[m)     Go just beyond end of paragraph; then of next paragraph
+[64d[36m^Y[39m(B[m     ([36mPgUp[39m(B[m)    Go one screenful up
+[65d[36m^V[39m(B[m     ([36mPgDn[39m(B[m)    Go one screenful down
+[2d[67;2H(B[0;7mG(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify      (B[0;7m^C(B[m Cur Pos      (B[0;7mM-U(B[m Undo[111G  (B[0;7mM-A(B[m Mark Text[68;4HExit [68;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[111G  (B[0;7mM-6(B[m Copy Text
+[66d[1;3H(B[0;7mGNU nano 4.8[1;59H      draft.txtr   [1;126HModified(B[m
+[2d[39;49m(B[mIt's not "publish or perish" any more,[K
+[3dit's a "share and thrive".[K
+[4d[K[5d[K[6d[K[7d[K[8d[K[10d[K[11d[K[12d[K[13d[K[14d[K[15d[K[16d[K[17d[K[19d[K[20d[K[21d[K[22d[K[24d[K[25d[K[26d[K[27d[K[29d[K[30d[K[32d[K[33d[K[35d[K[36d[K[38d[K[39d[K[41d[K[43d[K[44d[K[45d[K[47d[K[48d[K[49d[K[50d[K[51d[K[52d[K[54d[K[55d[K[56d[K[57d[K[59d[K[60d[K[61d[K[62d[K[64d[K[65d[K[4d[?12l[?25h[?25l[66d(B[0;7mSave modified buffer?                                                                                                                  [67;1H Y(B[m Yes[K
+[68d(B[0;7m N(B[m No  [68;18H(B[0;7mC(B[m Cancel[K[66;23H[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l
+[67d(B[0;7m^G(B[m Get Help[67;34H(B[0;7mM-D(B[m DOS Format[67;67H(B[0;7mM-A(B[m Append[67;100H(B[0;7mM-B(B[m Backup File
+[68d(B[0;7m^C(B[m Cancel[17G         [68;34H(B[0;7mM-M(B[m Mac Format[68;67H(B[0;7mM-P(B[m Prepend[68;100H(B[0;7m^T(B[m To Files
+[66d(B[0;7mFile Name to Write: draft.txtr
+(B[m[66;31H[?12l[?25h[?25l(B[0;7me
+(B[m[66;32H[?12l[?25h[?25l(B[0;7ms
+(B[m[66;33H[?12l[?25h[?25l
+(B[0;7mSave file under DIFFERENT NAME? 
+[67d Y(B[m Yes[K
+[68d(B[0;7m N(B[m No    [17G(B[0;7m^C(B[m Cancel[K[66;33H[?12l[?25h[?25l[66;60H[1K (B[0;7m[ Writing... ](B[m[K[1;64H[39;49m(B[0;7mdraft.txtres[1;126H        (B[m[66;60H(B[0;7m[ Wrote 3 lines ](B[m
+[J[68d[?12l[?25h[68;1H[?1049l[23;0;0t
+[?1l>[?2004l]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ es[K[K  rm nan[K[K[Kdraft.txtr
+rm: cannot remove 'draft.txtr': No such file or directory
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ ls
+draft.txtres
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ rm draft.txtres
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ ;[Kls
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ nano draft.txt
+[?2004h[?1049h[22;0;0t[1;68r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[66;62H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                                   draft.txt                                                             [1;134H(B[m
+[67d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[67;113H(B[0;7mM-A(B[m Mark Text
+[68d(B[0;7m^X(B[m Exit[68;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[68;113H(B[0;7mM-6(B[m Copy Text
+[66d[2d[39;49m(B[m[?12l[?25h[?25l[1;126H(B[0;7mModified(B[m
+[2dI[?12l[?25h[?25lt[?12l[?25h[?25l'[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25ln[?12l[?25h[?25lo[?12l[?25h[?25lt[?12l[?25h[?25l [?12l[?25h[?25l"[?12l[?25h[?25lp[?12l[?25h[?25lu[?12l[?25h[?25lb[?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25l [?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25l [?12l[?25h[?25lp[?12l[?25h[?25le[?12l[?25h[?25lr[?12l[?25h[?25li[?12l[?25h[?25ls
+[66d[K[2;27H[?12l[?25h[?25ln[?12l[?25h[?25l [?12l[?25h[?25lh[?12l[?25h[?25l"[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25ly[?12l[?25h[?25lu[?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25lm[?12l[?25h[?25l [?12l[?25h[?25lm[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l,[?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l
+[3d[?12l[?25h[?25li[?12l[?25h[?25lt[?12l[?25h[?25l'[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25la[?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l'[?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25la[?12l[?25h[?25le[?12l[?25h[?25lr[?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25ld[?12l[?25h[?25l [?12l[?25h[?25lt[?12l[?25h[?25lh[?12l[?25h[?25lr[?12l[?25h[?25li[?12l[?25h[?25lu[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l"[?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25la[?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25ld[?12l[?25h[?25l [?12l[?25h[?25lt[?12l[?25h[?25lh[?12l[?25h[?25lr[?12l[?25h[?25li[?12l[?25h[?25lv[?12l[?25h[?25le[?12l[?25h[?25l"[?12l[?25h[?25l.[?12l[?25h[?25l
+[4d[?12l[?25h[?25l[67;17H[17X[67;34H(B[0;7mM-D(B[m DOS Format[19X[67;67H(B[0;7mM-A(B[m Append[14X[67;97H   (B[0;7mM-B(B[m Backup File[K[68;2H(B[0;7mC(B[m Cancel[17G[17X[68;34H(B[0;7mM-M(B[m Mac Format[19X[68;67H(B[0;7mM-P(B[m Prepend[22X[68;100H(B[0;7m^T(B[m To Files[K
+[66d(B[0;7mFile Name to Write: draft.txt                                                                                                          [66;1H(B[m[66;30H[?12l[?25h[?25l 
+[66;30H[?12l[?25h[?25l 
+[66;30H[?12l[?25h[?25l[66;60H[1K (B[0;7m[ Writing... ](B[m[K[1;126H(B[0;7m        (B[m[66;60H(B[0;7m[ Wrote 3 lines ](B[m[67;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify      (B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo        (B[0;7mM-A(B[m Mark Text[68;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo        (B[0;7mM-6(B[m Copy Text
+[66d[4d[?12l[?25h[?25l[1;126H(B[0;7mModified(B[m[3;25H[?12l[?25h[?25l[67;17H[17X[67;34H(B[0;7mM-D(B[m DOS Format[19X[67;67H(B[0;7mM-A(B[m Append[14X[67;97H   (B[0;7mM-B(B[m Backup File[K[68;2H(B[0;7mC(B[m Cancel[17G[17X[68;34H(B[0;7mM-M(B[m Mac Format[19X[68;67H(B[0;7mM-P(B[m Prepend[22X[68;100H(B[0;7m^T(B[m To Files[K
+[66d(B[0;7mFile Name to Write: draft.txt                                                                                                          [66;1H(B[m[66;30H[?12l[?25h[?25l[66;60H[1K (B[0;7m[ Writing... ](B[m[K[1;126H(B[0;7m        (B[m[66;60H(B[0;7m[ Wrote 2 lines ](B[m[67;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify      (B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo        (B[0;7mM-A(B[m Mark Text[68;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo        (B[0;7mM-6(B[m Copy Text
+[66d[3;25H[?12l[?25h[?25l
+[66d[J[68d[?12l[?25h[68;1H[?1049l[23;0;0t
+[?1l>[?2004l]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ ls
+draft.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ cat draft.txt
+It's not "publish or perish" any more,
+it's "share and thrive".
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ touch my_file.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ ls -l
+total 4
+-rw-r--r-- 1 reeshabhc reeshabhc 64 Jun 20 21:15 draft.txt
+-rw-r--r-- 1 reeshabhc reeshabhc  0 Jun 20 21:16 my_file.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing/thesis [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing/thesis[00m$ cd ~ [K/Desktop/shell-lesson-data/exercise-data/writing/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ mv thesis/draft.txt theiss[K[K[K[Ks[Kesis/qut[Kotes.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls thesis
+my_file.txt  quotes.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ mv theiss [K[K[K[Ksis/quotes.txt 
+mv: missing destination file operand after 'thesis/quotes.txt'
+Try 'mv --help' for more information.
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ mv thesis/quotes.txt .
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls
+LittleWomen.txt  LittleWomen.txt:Zone.Identifier  haiku.txt  haiku.txt:Zone.Identifier  quotes.txt  [0m[01;34mthesis[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls thesis
+my_file.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls theis[K[Ksis/q uoto[Kes [K.txt
+ls: cannot access 'thesis/quotes.txt': No such file or directory
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -F
+LittleWomen.txt  LittleWomen.txt:Zone.Identifier  haiku.txt  haiku.txt:Zone.Identifier  quotes.txt  [0m[01;34mthesis[0m/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls -F [K[KF anal [K[K[K[K[K[K[K[K[K[K cp quotes.txt thesis/quo tations.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls quotes.txt theis[K[Ksis/quoi [K[Kotations.txt 
+quotes.txt  thesis/quotations.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ cp -r theissi theis[Ks[K[Kss[Kis [K_backup
+cp: cannot stat 'theissi': No such file or directory
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls [K[K[K cp -r thesis theis[K[Ksis/[K_backup
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ ls thesis theis[K[Ksis _backup/[K
+thesis:
+my_file.txt  quotations.txt
+
+thesis_backup:
+my_file.txt  quotations.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ pwd
+/home/reeshabhc/Desktop/shell-lesson-data/exercise-data/writing
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ cd
+]0;reeshabhc@TIGER03336: ~ [01;32mreeshabhc@TIGER03336[00m:[01;34m~[00m$ pwd
+/home/reeshabhc
+]0;reeshabhc@TIGER03336: ~ [01;32mreeshabhc@TIGER03336[00m:[01;34m~[00m$ ls pto[K[Kroteins
+ls: cannot access 'proteins': No such file or directory
+]0;reeshabhc@TIGER03336: ~ [01;32mreeshabhc@TIGER03336[00m:[01;34m~[00m$ ls
+[0m[01;34mDesktop[0m  my_unix_session
+]0;reeshabhc@TIGER03336: ~ [01;32mreeshabhc@TIGER03336[00m:[01;34m~[00m$ cd Desktop/shell-lesson-data/exercise-data/pr o [K[K[K
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ ls
+[0m[01;34manimal-counts[0m  [01;34mcreatures[0m  numbers.txt  numbers.txt:Zone.Identifier  [01;34mproject[0m  [01;34mproteins[0m  [01;34mwriting[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd proteins/[K
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ ls
+cubane.pdb                  ethane.pdb:Zone.Identifier   octane.pdb                  pentane.pdb:Zone.Identifier
+cubane.pdb:Zone.Identifier  methane.pdb                  octane.pdb:Zone.Identifier  propane.pdb
+ethane.pdb                  methane.pdb:Zone.Identifier  pentane.pdb                 propane.pdb:Zone.Identifier
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ ls proteins
+cubane.pdb                  ethane.pdb:Zone.Identifier   octane.pdb                  pentane.pdb:Zone.Identifier
+cubane.pdb:Zone.Identifier  methane.pdb                  octane.pdb:Zone.Identifier  propane.pdb
+ethane.pdb                  methane.pdb:Zone.Identifier  pentane.pdb                 propane.pdb:Zone.Identifier
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd proteins/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ c[Kwc cubane.pd b
+  20  156 1158 cubane.pdb
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ wc *.pdb
+  20  156 1158 cubane.pdb
+  12   84  622 ethane.pdb
+   9   57  422 methane.pdb
+  30  246 1828 octane.pdb
+  21  165 1226 pentane.pdb
+  15  111  825 propane.pdb
+ 107  819 6081 total
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ ec -l *.pdb
+ec: command not found
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ wc -l *.pdb
+  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ wc -l *.pdb > lengths.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ ls
+cubane.pdb                  lengths.txt                  octane.pdb:Zone.Identifier   propane.pdb:Zone.Identifier
+cubane.pdb:Zone.Identifier  methane.pdb                  pentane.pdb
+ethane.pdb                  methane.pdb:Zone.Identifier  pentane.pdb:Zone.Identifier
+ethane.pdb:Zone.Identifier  octane.pdb                   propane.pdb
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ touch lengths [K.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ cat lengths.txt q[K
+  20 cubane.pdb
+  12 ethane.pdb
+   9 methane.pdb
+  30 octane.pdb
+  21 pentane.pdb
+  15 propane.pdb
+ 107 total
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ sort -n lenght[K[Kths.txt 
+   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ head n [K[K-n 1 [K[K3 sort -n lengths.txt
+head: invalid number of lines: ‘lengths.txt’
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ sort -n lent[Kght[K[Kths.txt > sorted_length s.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ head -n 3 sorted_lengths.txt 
+   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ echo The exho[K[K[Kcho command [Ks[K r[Kprints the text 
+The echo command prints the text
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ sort -n lengths,t [K[K.txt |he[K[K head -n 1
+   9 methane.pdb
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ wc -l *.pdb | sort -n
+   9 methane.pdb
+  12 ethane.pdb
+  15 propane.pdb
+  20 cubane.pdb
+  21 pentane.pdb
+  30 octane.pdb
+ 107 total
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ not[K[K[Kcd not [K  [K[K[K[K[Kcd..
+cd..: command not found
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ ;s[K[Kls
+[0m[01;34manimal-counts[0m  [01;34mcreatures[0m  numbers.txt  numbers.txt:Zone.Identifier  [01;34mproject[0m  [01;34mproteins[0m  [01;34mwriting[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd..
+cd..: command not found
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd .
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop[00m$ ls
+'Visual Studio Code.lnk'   desktop.ini   [0m[01;34mshell-lesson-data[0m
+]0;reeshabhc@TIGER03336: ~/Desktop [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop[00m$ cd shell-lesson-data/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ ls
+[0m[01;34mexercise-data[0m  [01;34mnorth-pacific-gyre[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ cd not [Krth-pacific-gyre/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/north-pacific-gyre [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/north-pacific-gyre[00m$ e[Kwc -l *.txt
+  300 NENE01729A.txt
+  300 NENE01729B.txt
+  300 NENE01736A.txt
+  300 NENE01751A.txt
+  300 NENE01751B.txt
+  300 NENE01812A.txt
+  300 NENE01843A.txt
+  300 NENE01843B.txt
+  300 NENE01971Z.txt
+  300 NENE01978A.txt
+  300 NENE01978B.txt
+  240 NENE02018B.txt
+  300 NENE02040A.txt
+  300 NENE02040B.txt
+  300 NENE02040Z.txt
+  300 NENE02043A.txt
+  300 NENE02043B.txt
+ 5040 total
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/north-pacific-gyre [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/north-pacific-gyre[00m$ wc -l *.txt | sort -n | head -n 5[K5
+  240 NENE02018B.txt
+  300 NENE01729A.txt
+  300 NENE01729B.txt
+  300 NENE01736A.txt
+  300 NENE01751A.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/north-pacific-gyre [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/north-pacific-gyre[00m$ ls *Z.txt[Kt
+NENE01971Z.txt  NENE02040Z.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/north-pacific-gyre [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/north-pacific-gyre[00m$ ls
+NENE01729A.txt                  NENE01812A.txt                  NENE01978B.txt                  NENE02043A.txt
+NENE01729A.txt:Zone.Identifier  NENE01812A.txt:Zone.Identifier  NENE01978B.txt:Zone.Identifier  NENE02043A.txt:Zone.Identifier
+NENE01729B.txt                  NENE01843A.txt                  NENE02018B.txt                  NENE02043B.txt
+NENE01729B.txt:Zone.Identifier  NENE01843A.txt:Zone.Identifier  NENE02018B.txt:Zone.Identifier  NENE02043B.txt:Zone.Identifier
+NENE01736A.txt                  NENE01843B.txt                  NENE02040A.txt                  goodiff.sh
+NENE01736A.txt:Zone.Identifier  NENE01843B.txt:Zone.Identifier  NENE02040A.txt:Zone.Identifier  goodiff.sh:Zone.Identifier
+NENE01751A.txt                  NENE01971Z.txt                  NENE02040B.txt                  goostats.sh
+NENE01751A.txt:Zone.Identifier  NENE01971Z.txt:Zone.Identifier  NENE02040B.txt:Zone.Identifier  goostats.sh:Zone.Identifier
+NENE01751B.txt                  NENE01978A.txt                  NENE02040Z.txt
+NENE01751B.txt:Zone.Identifier  NENE01978A.txt:Zone.Identifier  NENE02040Z.txt:Zone.Identifier
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/north-pacific-gyre [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/north-pacific-gyre[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ ls
+[0m[01;34mexercise-data[0m  [01;34mnorth-pacific-gyre[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ cd exercise-data/creatures/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$ ls
+basilisk.dat  basilisk.dat:Zone.Identifier  minotaur.dat  minotaur.dat:Zone.Identifier  unicorn.dat  unicorn.dat:Zone.Identifier
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$ head -n 5 basilisk.dat minotaur.dat unicorn.dat[Kt
+==> basilisk.dat <==
+COMMON NAME: basilisk
+CLASSIFICATION: basiliscus vulgaris
+UPDATED: 1745-05-02
+CCCCAACGAG
+GAAACAGATC
+
+==> minotaur.dat <==
+COMMON NAME: minotaur
+CLASSIFICATION: bos hominus
+UPDATED: 1765-02-17
+CCCGAAGGAC
+CGACATCTCT
+
+==> unicorn.dat <==
+COMMON NAME: unicorn
+CLASSIFICATION: equus monoceros
+UPDATED: 1738-11-24
+AGCCGGGTCG
+CTTTACCTTA
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for thing in list_of_things
+> do
+>     operation_using $thing    # Indentation within the loop is not required, but aids legibility
+> done
+operation_using: command not found
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for thing in list of things [K do operation_ui[Ks ing $thing done
+>                 f
+bash: syntax error near unexpected token `f'
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for thing in list_of _things
+> do
+> operation[K[K[K[K[K[K[K[K[K^C^C^C 
+
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$   for thing in list_ of thin[K[K[K[K[K_things
+> do
+> operation_i[Kisi[K[K[Kusing $thing
+> done
+operation_using: command not found
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for filename in bas ilisk.dat min otaur.dat uni corn.dat
+> do [K
+> head -n 2 $filename |tail -n 1
+> done
+CLASSIFICATION: basiliscus vulgaris
+CLASSIFICATION: bos hominus
+CLASSIFICATION: equus monoceros
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$ for filename n [K[Kin *.dat
+> do [K
+> echo $filename
+> head -n 100 $filrname[K[K[K[K[Kename |tail -n 20
+> done
+basilisk.dat
+CGGTACCGAA
+AAGGGTCGCG
+CAAGTGTTCC
+CGGGACAATA
+GTTCTGCTAA
+GATAAGTATG
+TGCCGACTTA
+CCCGACCGTC
+TAGGTTATAA
+GGCACAACCG
+CTTCACTGTA
+GAGGTGTACA
+AGGATCCGTT
+GCGCGGGCGG
+CAGTCTATGT
+TTTTCGACAC
+TGGACTGCTT
+CCCTTTGAGG
+GTGGATTTTT
+CGTAACGGGT
+minotaur.dat
+GGTTGGACCG
+AGTGAACGAA
+GCGATTGATG
+CCCAGTATTG
+GTTTCGGGTC
+CCACCAGGAA
+CAATGTTGGA
+CTTTAGCACG
+ACAGGAATCA
+ATCGTTTCGT
+AATGGTGGCA
+CTTTGGGGTT
+GCAGGCCCGC
+CTGTGCCTTC
+AACGGTCGGC
+AAATAGGACA
+GAGATTTCCT
+GCCTCAAACA
+TCGCAAGACG
+ATTTATCCGG
+unicorn.dat
+CGGTACCGAA
+AAGGGTCGCG
+CAAGTGTTCC
+CGGGACAATA
+GTTCTGCTAA
+GATAAGTATG
+TGCCGACTTA
+CCCGACCGTC
+TAGGTTATAA
+GGCACAACCG
+CTTCACTGTA
+GAGGTGTACA
+AGGATCCGTT
+GCGCGGGCGG
+CAGTCTATGT
+TTTTCGACAC
+TGGACTGCTT
+CCCTTTGAGG
+GTGGATTTTT
+CGTAACGGGT
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/creatures [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/creatures[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ ls
+[0m[01;34mexercise-data[0m  [01;34mnorth-pacific-gyre[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ cd north-pacific-gyre/q
+bash: cd: north-pacific-gyre/q: No such file or directory
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ cd north-pacific-gyre/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/north-pacific-gyre [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/north-pacific-gyre[00m$ for datafile in NA[KER[KNE*A,[K.txt NENE*B.txt
+> do 
+> ecxh[K[Kho $datafile
+> done
+NENE01729A.txt
+NENE01736A.txt
+NENE01751A.txt
+NENE01812A.txt
+NENE01843A.txt
+NENE01978A.txt
+NENE02040A.txt
+NENE02043A.txt
+NENE01729B.txt
+NENE01751B.txt
+NENE01843B.txt
+NENE01978B.txt
+NENE02018B.txt
+NENE02040B.txt
+NENE02043B.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/north-pacific-gyre [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/north-pacific-gyre[00m$ fi[Kor datra[K[K af ile in NE NE0[K*A.txt NENE*B.txt
+> do [K
+> echo $datafile stats [K-$datad[Kfile
+> done
+NENE01729A.txt stats-NENE01729A.txt
+NENE01736A.txt stats-NENE01736A.txt
+NENE01751A.txt stats-NENE01751A.txt
+NENE01812A.txt stats-NENE01812A.txt
+NENE01843A.txt stats-NENE01843A.txt
+NENE01978A.txt stats-NENE01978A.txt
+NENE02040A.txt stats-NENE02040A.txt
+NENE02043A.txt stats-NENE02043A.txt
+NENE01729B.txt stats-NENE01729B.txt
+NENE01751B.txt stats-NENE01751B.txt
+NENE01843B.txt stats-NENE01843B.txt
+NENE01978B.txt stats-NENE01978B.txt
+NENE02018B.txt stats-NENE02018B.txt
+NENE02040B.txt stats-NENE02040B.txt
+NENE02043B.txt stats-NENE02043B.txt
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/north-pacific-gyre [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/north-pacific-gyre[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data[00m$ cd exercise-data/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ ls
+[0m[01;34manimal-counts[0m  [01;34mcreatures[0m  numbers.txt  numbers.txt:Zone.Identifier  [01;34mproject[0m  [01;34mproteins[0m  [01;34mwriting[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd pro teins/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ ls
+cubane.pdb                  lengths.txt                  octane.pdb:Zone.Identifier   propane.pdb:Zone.Identifier
+cubane.pdb:Zone.Identifier  methane.pdb                  pentane.pdb                  sorted_lengths.txt
+ethane.pdb                  methane.pdb:Zone.Identifier  pentane.pdb:Zone.Identifier
+ethane.pdb:Zone.Identifier  octane.pdb                   propane.pdb
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ nano middle.sh
+[?2004h[?1049h[22;0;0t[1;68r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[66;62H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                                   middle.sh                                                             [1;134H(B[m
+[67d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[67;113H(B[0;7mM-A(B[m Mark Text
+[68d(B[0;7m^X(B[m Exit[68;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[68;113H(B[0;7mM-6(B[m Copy Text
+[66d[2d[39;49m(B[m[?12l[?25h[?25l[1;126H(B[0;7mModified(B[m
+[2dh[?12l[?25h[?25le[?12l[?25h[?25la[?12l[?25h[?25l
+(B[0;1m[34mhead[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l -[?12l[?25h[?25l(B[0;1m[35m -n[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l 1[?12l[?25h[?25l5[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l o[?12l[?25h[?25lc[?12l[?25h[?25lt[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25le[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l [?12l[?25h[?25l.[?12l[?25h[?25lp[?12l[?25h[?25ld[?12l[?25h[?25lb[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l [32m|[39m(B[m[?12l[?25h[?25l[42m 
+[66d[49m(B[m[K[2;25H[?12l[?25h[?25l t[?12l[?25h[?25la[?12l[?25h[?25li[?12l[?25h[?25l[32m;[39m(B[m[?12l[?25h[?25ll[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l(B[0;1m[34mtail[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l  -[?12l[?25h[?25l(B[0;1m[35m -n[39m(B[m[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l 5[?12l[?25h[?25l[67;17H[17X[67;34H(B[0;7mM-D(B[m DOS Format[19X[67;67H(B[0;7mM-A(B[m Append[14X[67;97H   (B[0;7mM-B(B[m Backup File[K[68;2H(B[0;7mC(B[m Cancel[17G[17X[68;34H(B[0;7mM-M(B[m Mac Format[19X[68;67H(B[0;7mM-P(B[m Prepend[22X[68;100H(B[0;7m^T(B[m To Files[K
+[66d(B[0;7mFile Name to Write: middle.sh                                                                                                          [66;1H(B[m[66;30H[?12l[?25h[?25l[66;60H[1K (B[0;7m[ Writing... ](B[m[K[1;126H(B[0;7m        (B[m[66;60H(B[0;7m[ Wrote 1 line ](B[m[67;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify      (B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo        (B[0;7mM-A(B[m Mark Text[68;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo        (B[0;7mM-6(B[m Copy Text
+[66d[2;35H[?12l[?25h[?25l
+[66d[J[68d[?12l[?25h[68;1H[?1049l[23;0;0t
+[?1l>[?2004l]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ bash middle.sh
+ATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ nano middle.sjh[K[Kh
+[?2004h[?1049h[22;0;0t[1;68r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[66;61H(B[0;7m[ Reading... ](B[m[66;67H(B[0;7m 1 line ](B[m[H(B[0;7m  GNU nano 4.8                                                   middle.sh                                                             [1;134H(B[m
+[67d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[67;113H(B[0;7mM-A(B[m Mark Text
+[68d(B[0;7m^X(B[m Exit[68;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[68;113H(B[0;7mM-6(B[m Copy Text
+[66d[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5
+[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l [?12l[?25h[?25l1[?12l[?25h[?25l5[?12l[?25h[?25l [?12l[?25h[?25lo[?12l[?25h[?25lc[?12l[?25h[?25lt[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25le[?12l[?25h[?25l.[?12l[?25h[?25lp[?12l[?25h[?25ld[?12l[?25h[?25l[1;126H(B[0;7mModified(B[m[2;20H[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P
+[66d[K[2;15H[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25lb[?12l[?25h[?25l[1P[?12l[?25h[?25l[67;17H[29X[67;46H(B[0;7mM-F(B[m New Buffer[15X[67;81H          (B[0;7m^X(B[m Execute Command[K[68;2H(B[0;7mC(B[m Cancel[17G[29X[68;46H(B[0;7mM-N(B[m No Conversion[28X[68;91H(B[0;7m^T(B[m To Files[K
+[66d(B[0;7mFile to insert [from ./]:                                                                                                              [66;1H(B[m[66;27H[?12l[?25h[?25l(B[0;7md
+(B[m[66;28H[?12l[?25h[?25l(B[0;7md
+(B[m[66;29H[?12l[?25h[?25l(B[0;7md
+(B[m[66;30H[?12l[?25h[?25l(B[0;7md
+(B[m[66;31H[?12l[?25h[?25l 
+[66;31H[?12l[?25h[?25l(B[0;7md
+(B[m[66;32H[?12l[?25h[?25l(B[0;7m 
+(B[m[66;31H[?12l[?25h[?25l(B[0;7m 
+(B[m[66;30H[?12l[?25h[?25l(B[0;7m 
+(B[m[66;29H[?12l[?25h[?25l(B[0;7m 
+(B[m[66;28H[?12l[?25h[?25l(B[0;7m 
+(B[m[66;27H[?12l[?25h[?25l
+[66;27H[?12l[?25h[?25l
+[K[67;2H(B[0;7mL(B[m Refresh [67;23H(B[0;7m^W(B[m Where Is[67;45H(B[0;7mM-Q(B[m Previous   [67G(B[0;7m^P(B[m Prev Line[67;89H(B[0;7m^Y(B[m Prev Page          (B[0;7mM-\(B[m First Line[68;2H(B[0;7mX(B[m Close [68;23H(B[0;7m^Q(B[m Where Was[68;45H(B[0;7mM-W(B[m Next[14X[68;67H(B[0;7m^N(B[m Next Line[68;89H(B[0;7m^V(B[m Next Page [68;111H(B[0;7mM-/(B[m Last Line
+[66d[1;3H(B[0;7m            [1;58HInsert File Help Text[1;126H        (B[m
+[2d[39;49m(B[m Type in the name of a file to be inserted into the current file buffer at
+[3d the current cursor location.
+[5d If you have compiled nano with multiple file buffer support, and enable
+[6d multiple file buffers with the -F or --multibuffer command line flags,
+[7d the Meta-F toggle, or a nanorc file, inserting a file will cause it to be
+[8d loaded into a separate buffer (use Meta-< and > to switch between file
+[9d buffers).  If you need another blank buffer, do not enter any filename,
+[10d or type in a nonexistent filename at the prompt and press [36mEnter[39m(B[m.
+[12d The following function keys are available in Insert File mode:
+[14d[36m^G[39m(B[m     ([36mF1[39m(B[m)[18GDisplay this help text
+[15d[36m^C[15;18H[39m(B[mCancel the current function
+[17d[36mM-F[17;18H[39m(B[mToggle the use of a new buffer
+[18d[36mM-N[18;18H[39m(B[mDo not convert from DOS/Mac format
+[19d[36m^X[19;18H[39m(B[mExecute external command
+[20d[36m^T[20;18H[39m(B[mGo to file browser
+[2d[67;2H(B[0;7mG(B[m Get Help[67;23H           [67;45H (B[0;7mM-F(B[m New Buffer[67G            [67;89H  (B[0;7m^X(B[m Execute Command[K[68;2H(B[0;7mC(B[m Cancel[68;23H            [68;45H (B[0;7mM-N(B[m No Conversion[16X[68;89H  (B[0;7m^T(B[m To Files[K
+[66d[1;3H(B[0;7mGNU nano 4.8[1;58H        middle.sh    [1;126HModified(B[m
+[2d(B[0;1m[34mhead[35m -n[39m(B[m 15  [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[K
+[3d[K[5d[K[6d[K[7d[K[8d[K[9d[K[10d[K[12d[K[14d[K[15d[K[17d[K[18d[K[19d[K[20d[K[66d(B[0;7mFile to insert [from ./]:                                                                                                              [66;1H(B[m[66;27H[?12l[?25h[?25l
+[K[67;94HRead File[K[68;48H(B[0;7m\(B[m Pipe Text[K
+[66d(B[0;7mCommand to execute:                                                                                                                    [66;1H(B[m[66;21H[?12l[?25h[?25l
+[K[67;94HExecute Command[68;48H(B[0;7mN(B[m No Conversion[68;91H(B[0;7m^T(B[m To Files
+[66d(B[0;7mFile to insert [from ./]:                                                                                                              [66;1H(B[m[66;27H[?12l[?25h[?25l[66;61H[1K (B[0;7m[ Cancelled ](B[m[K[67;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos      (B[0;7mM-U(B[m Undo        (B[0;7mM-A(B[m Mark Text[68;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[68;113H(B[0;7mM-6(B[m Copy Text
+[66d[2;12H[?12l[?25h[?25l
+[66d(B[0;7mSave modified buffer?                                                                                                                  [67;1H Y(B[m Yes[K
+[68d(B[0;7m N(B[m No  [68;18H(B[0;7mC(B[m Cancel[K[66;23H[?12l[?25h[?25l [?12l[?25h[?25l
+[67d(B[0;7m^G(B[m Get Help[67;34H(B[0;7mM-D(B[m DOS Format[67;67H(B[0;7mM-A(B[m Append[67;100H(B[0;7mM-B(B[m Backup File
+[68d(B[0;7m^C(B[m Cancel[17G         [68;34H(B[0;7mM-M(B[m Mac Format[68;67H(B[0;7mM-P(B[m Prepend[68;100H(B[0;7m^T(B[m To Files
+[66d(B[0;7mFile Name to Write: middle.sh
+(B[m[66;30H[?12l[?25h[?25l(B[0;7me
+(B[m[66;31H[?12l[?25h[?25l(B[0;7ms
+(B[m[66;32H[?12l[?25h[?25l
+(B[0;7mSave file under DIFFERENT NAME?
+[67d Y(B[m Yes[K
+[68d(B[0;7m N(B[m No    [17G(B[0;7m^C(B[m Cancel[K[66;33H[?12l[?25h[?25l[66;60H[1K (B[0;7m[ Writing... ](B[m[K[1;65H[39;49m(B[0;7mmiddle.shes[1;126H        
+[2d(B[0;1m[31mhead[39m[41m -n[49m(B[m 15  [36m|[39m(B[m (B[0;1m[31mtail[39m(B[m (B[0;1m[41m -n[1;134H[49m(B[m[66;60H(B[0;7m[ Wrote 1 line ](B[m
+[J[68d[?12l[?25h[68;1H[?1049l[23;0;0t
+[?1l>[?2004l]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ e[K nano middle.sh
+[?2004h[?1049h[22;0;0t[1;68r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[66;61H(B[0;7m[ Reading... ](B[m[66;67H(B[0;7m 1 line ](B[m[H(B[0;7m  GNU nano 4.8                                                   middle.sh                                                             [1;134H(B[m
+[67d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[67;113H(B[0;7mM-A(B[m Mark Text
+[68d(B[0;7m^X(B[m Exit[68;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[68;113H(B[0;7mM-6(B[m Copy Text
+[66d[2d(B[0;1m[34mhead[35m -n[39m(B[m 15 octane.pdb [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5
+[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l [?12l[?25h[?25l1[?12l[?25h[?25l5[?12l[?25h[?25l [?12l[?25h[?25lo[?12l[?25h[?25lc[?12l[?25h[?25lt[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25le[?12l[?25h[?25l.[?12l[?25h[?25lp[?12l[?25h[?25ld[?12l[?25h[?25lb[?12l[?25h[?25l[1;126H(B[0;7mModified(B[m[2;21H[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P
+[66d[K[2;17H[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25lh [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;13H[?12l[?25h[?25le [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;14H[?12l[?25h[?25la [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;15H[?12l[?25h[?25l(B[0;1m[34mhead[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;16H[?12l[?25h[?25l  [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;17H[?12l[?25h[?25l[1P[?12l[?25h[?25lhea[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l[1P[?12l[?25h[?25l" [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;13H[?12l[?25h[?25l[32m$[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;14H[?12l[?25h[?25l(B[0;1m[31m$1[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;15H[?12l[?25h[?25l(B[0;1m[33m"$1"[39m(B[m [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5[2;16H[?12l[?25h[?25l [K
+[3d [32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5
+[?12l[?25h[?25l[2;17H[32m|[39m(B[m (B[0;1m[34mtail[39m(B[m (B[0;1m[35m -n[39m(B[m 5
+[3d[K[2;16H[?12l[?25h[?25l[67;17H[17X[67;34H(B[0;7mM-D(B[m DOS Format[19X[67;67H(B[0;7mM-A(B[m Append[14X[67;97H   (B[0;7mM-B(B[m Backup File[K[68;2H(B[0;7mC(B[m Cancel[17G[17X[68;34H(B[0;7mM-M(B[m Mac Format[19X[68;67H(B[0;7mM-P(B[m Prepend[22X[68;100H(B[0;7m^T(B[m To Files[K
+[66d(B[0;7mFile Name to Write: middle.sh                                                                                                          [66;1H(B[m[66;30H[?12l[?25h[?25l[66;60H[1K (B[0;7m[ Writing... ](B[m[K[1;126H(B[0;7m        (B[m[66;60H(B[0;7m[ Wrote 1 line ](B[m[67;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify      (B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo        (B[0;7mM-A(B[m Mark Text[68;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo        (B[0;7mM-6(B[m Copy Text
+[66d[2;16H[?12l[?25h[?25l
+[66d[J[68d[?12l[?25h[68;1H[?1049l[23;0;0t
+[?1l>[?2004l]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ bash middle.sh octane.sh
+head: cannot open 'octane.sh' for reading: No such file or directory
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ bash middle.sh octane [K.pdb
+ATOM      9  H           1      -4.502   0.681   0.785  1.00  0.00
+ATOM     10  H           1      -5.254  -0.243  -0.537  1.00  0.00
+ATOM     11  H           1      -4.357   1.252  -0.895  1.00  0.00
+ATOM     12  H           1      -3.009  -0.741  -1.467  1.00  0.00
+ATOM     13  H           1      -3.172  -1.337   0.206  1.00  0.00
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/proteins [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/proteins[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ c[Kls
+[0m[01;34manimal-counts[0m  [01;34mcreatures[0m  numbers.txt  numbers.txt:Zone.Identifier  [01;34mproject[0m  [01;34mproteins[0m  [01;34mwriting[0m
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ cd  wer[K[Kriting/
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ cat a[Khaiku.txt
+The Tao that is seen
+Is not the true Tao, until
+You bring fresh toner.
+
+With searching comes loss
+and the presence of absence:
+"My Thesis" not found.
+
+Yesterday it worked
+Today it is not working
+Software is like that.
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ grep noit[K[Kt haiku.txt
+Is [01;31m[Knot[m[K the true Tao, until
+"My Thesis" [01;31m[Knot[m[K found.
+Today it is [01;31m[Knot[m[K working
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ greep t[KThe [K[K[K[K[K[K[Kp The haiku.txt
+[01;31m[KThe[m[K Tao that is seen
+"My [01;31m[KThe[m[Ksis" not found.
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ find . -type d
+.
+./thesis
+./thesis_backup
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data/writing [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data/writing[00m$ cd ..
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ find .type [K[K[K[K[K -type d
+.
+./writing
+./writing/thesis
+./writing/thesis_backup
+./animal-counts
+./proteins
+./creatures
+./project
+./project/data
+./project/results
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ find . -type df[Kf[K[Kf
+./writing/quotes.txt
+./writing/haiku.txt
+./writing/thesis/my_file.txt
+./writing/thesis/quotations.txt
+./writing/haiku.txt:Zone.Identifier
+./writing/LittleWomen.txt
+./writing/LittleWomen.txt:Zone.Identifier
+./writing/thesis_backup/my_file.txt
+./writing/thesis_backup/quotations.txt
+./animal-counts/animals.csv:Zone.Identifier
+./animal-counts/animals.csv
+./numbers.txt
+./proteins/sorted_lengths.txt
+./proteins/middle.shes
+./proteins/octane.pdb:Zone.Identifier
+./proteins/pentane.pdb:Zone.Identifier
+./proteins/lengths.txt
+./proteins/propane.pdb:Zone.Identifier
+./proteins/methane.pdb
+./proteins/propane.pdb
+./proteins/octane.pdb
+./proteins/cubane.pdb:Zone.Identifier
+./proteins/ethane.pdb:Zone.Identifier
+./proteins/middle.sh
+./proteins/methane.pdb:Zone.Identifier
+./proteins/ethane.pdb
+./proteins/cubane.pdb
+./proteins/pentane.pdb
+./numbers.txt:Zone.Identifier
+./creatures/basilisk.dat
+./creatures/minotaur.dat:Zone.Identifier
+./creatures/unicorn.dat
+./creatures/minotaur.dat
+./creatures/basilisk.dat:Zone.Identifier
+./creatures/unicorn.dat:Zone.Identifier
+]0;reeshabhc@TIGER03336: ~/Desktop/shell-lesson-data/exercise-data [01;32mreeshabhc@TIGER03336[00m:[01;34m~/Desktop/shell-lesson-data/exercise-data[00m$ exit
+exit
+
+Script done on 2022-06-20 21:56:47+05:30 [COMMAND_EXIT_CODE="0"]
